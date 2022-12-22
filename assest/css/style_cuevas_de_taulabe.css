@@ -318,6 +318,10 @@ nav .icon-bars .line {
 
     }
 
+    .header-text h1{
+        font-size: 30px;
+    }
+
     .btn-1{
         margin-top: 20px;
     }
@@ -342,11 +346,11 @@ nav .icon-bars .line {
     
     .bt-txt-container{
         padding: 10px;
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .actividades img{
-        width: 200px;
+        width: 300px;
 }
 
 footer{

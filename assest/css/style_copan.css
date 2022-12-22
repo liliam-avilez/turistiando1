@@ -298,13 +298,17 @@ nav .icon-bars .line {
     nav .icon-bars {
         display: block;
     }
+
+    .header-text h1{
+        font-size: 30px;
+    }
     
     header{
         height: 400px;
     }
 
     .header-text{
-        margin-top: 50px;
+        margin-top: 20px;
         padding: 0px 25px;
 
     }
